@@ -1,0 +1,1275 @@
+{
+  "@@locale" :   "ar" ,
+  "@@last_modified": "2019-05-05T20:06:29.207245",
+  "language": "English",
+      "@homeTab": {
+        "type": "text",
+        "placeholders": {}
+      },
+  "appTitle": "خدماتى",
+  "@appTitle": {
+    "description": "The application title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noInternetConnection": "لا يوجد أتصال بالانترنت.",
+  "@noInternetConnection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingFirstTitle": "مرحبا",
+  "@onboardingFirstTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingFirstDescription": "إن تكوين الصداقات أمر سهل مثل التلويح بيديك ذهابًا وإيابًا في خطوة سهلة.",
+  "@onboardingFirstDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingSecondTitle": "الصور",
+  "@noInternetConnection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingSecondDescription": "جعل الصور سهلة مثل التلويح بيديك ذهابًا وإيابًا في خطوة سهلة.",
+  "@onboardingSecondDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingThirdTitle": "الفيديوهات",
+  "@onboardingThirdTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingThirdDescription": "إن إنشاء مقاطع الفيديو أمر سهل مثل التلويح بيديك ذهابًا وإيابًا في خطوة سهلة.",
+  "@onboardingThirdDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingFouirthTitle": "الأماكن",
+  "@onboardingFouirthTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingFouirthDescription": "جعل الأماكن أمر سهل مثل التلويح بيديك ذهابًا وإيابًا في خطوة سهلة.",
+  "@onboardingFouirthDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingGetStartedButton": "البدء",
+  "@onboardingGetStartedButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authEmailTextFormFieldLabelText": "البريد الإلكتروني",
+  "@authEmailTextFormFieldLabelText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authEmailTextFormFieldLabelError": "بريد إلكتروني خاطئ",
+  "@authEmailTextFormFieldLabelError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authPasswordTextFormFieldLabelText": "كلمه السر",
+  "@authPasswordTextFormFieldLabelText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authPasswordTextFormFieldLabelErrorEmpty": "كلمة المرور ليست فارغة",
+  "@authPasswordTextFormFieldLabelErrorEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authPasswordTextFormFieldLabelErrorMore": "كلمة المرور أكثر من 5 أحرف",
+  "@authPasswordTextFormFieldLabelErrorMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authPasswordTextFormFieldLabelErrorLess": "كلمة المرور أقل من 12 حرفا",
+  "@authPasswordTextFormFieldLabelErrorLess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authConfirmPasswordTextFormFieldLabelText": "تأكيد كلمة المرور",
+  "@authConfirmPasswordTextFormFieldLabelText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authConfirmPasswordTextFormFieldLabelError": "كلمة المرور غير متطابقة",
+  "@authConfirmPasswordTextFormFieldLabelError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authUserNameTextFormFieldLabelText": "اسم المستخدم",
+  "@authUserNameTextFormFieldLabelText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authUserNameTextFormFieldLabelErrorEmpty": "اسم المستخدم غير فارغ",
+  "@authUserNameTextFormFieldLabelErrorEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authUserNameTextFormFieldLabelErrorMore": "اسم المستخدم أكثر من 5 أحرف",
+  "@authUserNameTextFormFieldLabelErrorMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authUserNameTextFormFieldLabelErrorLess": "اسم المستخدم أقل من 12 حرفا",
+  "@authUserNameTextFormFieldLabelErrorLess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authLoginShowDialogDeaflut": "هناك خطأ ما",
+  "@authLoginShowDialogDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authLoginShowDialogTwo": "البريد الإلكتروني غير موجود",
+  "@authLoginShowDialogTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authLoginShowDialogThree": "كلمة مرور خاطئة",
+  "@authLoginShowDialogThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authLoginShowDialogTitle": "تسجيل الدخول",
+  "@authLoginShowDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authLoginShowDialogButtonOk": "حسنا",
+  "@authLoginShowDialogButtonOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogDeaflut": "هناك خطأ ما",
+  "@authSignupShowDialogDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogTwo": "البريد الإلكتروني غير موجود",
+  "@authSignupShowDialogTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogThree": "أدخل البريد الإلكتروني الصحيح",
+  "@authSignupShowDialogThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogFour": "أقل عدد من اسم المستخدم هو 5 أحرف",
+  "@authSignupShowDialogFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogFive": "أكبر عدد من اسم المستخدم هو 12 حرفًا",
+  "@authSignupShowDialogFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogSix": "أقل عدد من كلمة مرور المستخدم هو 5 أحرف",
+  "@authSignupShowDialogSix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogSeven": "أكبر عدد من كلمة مرور المستخدم هو 12 حرفًا",
+  "@authSignupShowDialogSeven": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogTitle": "سجل",
+  "@authSignupShowDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogButtonOk": "حسنا",
+  "@authSignupShowDialogButtonOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authAppBarTitleLogin": "تسجيل الدخول",
+  "@authAppBarTitleLogin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authAppBarTitleSignup": "سجل",
+  "@authAppBarTitleSignup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authRaisedButtonLogin": "تسجيل الدخول",
+  "@authRaisedButtonLogin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authRaisedButtonSignup": "سجل",
+  "@authRaisedButtonSignup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSwitchToLogin": "التبديل إلى تسجيل الدخول",
+  "@authSwitchToLogin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSwitchToSignup": "التبديل إلى الاشتراك",
+  "@authSwitchToSignup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsAppBarTitle": "الرئيسية",
+  "@allProblemsAppBarTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsChangePassword": "تغير كلمة السر",
+  "@allProblemsChangePassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsContactUs": "اتصل بنا",
+  "@allProblemsContactUs": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsScaffoldMessageOne": "انتظر حتى الأنتهاء من تحميل المشاكل",
+  "@allProblemsScaffoldMessageOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsScaffoldMessageTwo": "من فضلك انتظر ......",
+  "@allProblemsScaffoldMessageTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsNoProblemsFound": "لا توجد مشاكل",
+  "@allProblemsNoProblemsFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerNewProblems": "مشاكل جديدة",
+  "@allProblemsDrawerNewProblems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerNewProblemsTitle": "مشاكل جديدة",
+  "@allProblemsDrawerNewProblemsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerHasProblems": "لديه مشاكل",
+  "@allProblemsDrawerHasProblems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerHasProblemsTitle": "لديه مشاكل",
+  "@allProblemsDrawerHasProblemsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerSolveProblems": "حل المشاكل",
+  "@allProblemsDrawerSolveProblems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerSolveProblemsTitle": " المشاكل التى تم حلها",
+  "@allProblemsDrawerSolveProblemsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerAdmins": "مدراء",
+  "@allProblemsDrawerAdmins": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerAdminsTitle": "جميع المسؤولين",
+  "@allProblemsDrawerAdminsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerUsers": "العمال",
+  "@allProblemsDrawerUsers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerUsersTitle": "كل العمال",
+  "@allProblemsDrawerUsersTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerClients": "العملاء",
+  "@allProblemsDrawerClients": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerClientsTitle": "كل العملاء",
+  "@allProblemsDrawerClientsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerNew": "أشخاص جديدين",
+  "@allProblemsDrawerNew": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerNewTitle": "كل الاشخاص الجديدين",
+  "@allProblemsDrawerNewTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerEditProfile": "تعديل الملف الشخصى",
+  "@allProblemsDrawerEditProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerEditProfileImportant": "مهم",
+  "@allProblemsDrawerEditProfileImportant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerLogout": "تسجيل الخروج",
+  "@allProblemsDrawerLogout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolvedButtonBefore": "حل",
+  "@allProblemsSolvedButtonBefore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolvedButtonAfter": "تم حلها",
+  "@allProblemsSolvedButtonAfter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemButtonBefore": "لديه مشكلة",
+  "@allProblemsHasProblemButtonBefore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemButtonAfter": "لديه مشكلة",
+  "@allProblemsHasProblemButtonAfter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReservedButtonBefore": "حجز",
+  "@allProblemsReservedButtonBefore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReservedButtonAfter": "محجوز",
+  "@allProblemsReservedButtonAfter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsComments": "تعليقات",
+  "@allProblemsComments": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsMore": "المزيد",
+  "@allProblemsMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemScaffoldOne": "لا يمكن حل مشكلة للمشكلة التي لديها مشكلة",
+  "@allProblemsSolveProblemScaffoldOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogOneTitle": "حل المشكلة",
+  "@allProblemsSolveProblemShowDialogOneTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogOneMessage": "هل أنت متأكد من حل هذه المشكلة؟",
+  "@allProblemsSolveProblemShowDialogOneMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogOneCancel": "إلغاء",
+  "@allProblemsSolveProblemShowDialogOneCancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogOneOk": "حل المشكلة",
+  "@allProblemsSolveProblemShowDialogOneOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoDeaflut": "هناك خطأ ما",
+  "@allProblemsSolveProblemShowDialogTwoDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoOne": "تم حل المشكلة",
+  "@allProblemsSolveProblemShowDialogTwoOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoTwo": "المستخدم ليس موجود",
+  "@allProblemsSolveProblemShowDialogTwoTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoThree": "المشكلة غير موجودة",
+  "@allProblemsSolveProblemShowDialogTwoThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoFour": "أنت لست المالك لهذه المشكلة",
+  "@allProblemsSolveProblemShowDialogTwoFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoFive": "لا يمكن حل المشكلة لأنها تحتوي على مشكلة",
+  "@allProblemsSolveProblemShowDialogTwoFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoSix": "تم حل المشكلة من قبل",
+  "@allProblemsSolveProblemShowDialogTwoSix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoTitle": "حل المشكلة",
+  "@allProblemsSolveProblemShowDialogTwoTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoButtonOk": "حسنا",
+  "@allProblemsSolveProblemShowDialogTwoButtonOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemScaffoldOne": "لا يمكن أن تضيف لديه مشكلة لمشكلة تم حلها",
+  "@allProblemsHasProblemScaffoldOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogOneTitle": "لديه مشكلة",
+  "@allProblemsHasProblemShowDialogOneTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogOneMessage": "هل أنت متأكد من وجود مشكلة لهذه المشكلة؟",
+  "@allProblemsHasProblemShowDialogOneMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogOneCancel": "ألغاء",
+  "@allProblemsHasProblemShowDialogOneCancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogOneOk": "لديه مشكلة",
+  "@allProblemsHasProblemShowDialogOneOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoDeaflut": "هناك خطأ ما",
+  "@allProblemsHasProblemShowDialogTwoDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoOne": "المشكلة لديها مشكلة",
+  "@allProblemsHasProblemShowDialogTwoOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoTwo": "المستخدم ليس موجود",
+  "@allProblemsHasProblemShowDialogTwoTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoThree": "المشكلة غير موجودة",
+  "@allProblemsHasProblemShowDialogTwoThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoFour": "أنت لست المالك لهذه المشكلة",
+  "@allProblemsHasProblemShowDialogTwoFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoFive": "لا يمكن أن يكون لديها مشكلة لأنه تم حل المشكلة",
+  "@allProblemsHasProblemShowDialogTwoFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoSix": "المشكلة لديها مشكلة من قبل",
+  "@allProblemsHasProblemShowDialogTwoSix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoSeven": "موعد الحجز لم يحن بعد",
+  "@allProblemsHasProblemShowDialogTwoSeven": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoEgiht": "لم يمر يوم واحد على المشكلة",
+  "@allProblemsHasProblemShowDialogTwoEgiht": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoTitle": "لديه مشكلة",
+  "@allProblemsHasProblemShowDialogTwoTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoButtonOk": "حسنا",
+  "@allProblemsHasProblemShowDialogTwoButtonOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogOneTitle": "إزالة لديه مشكلة",
+  "@allProblemsRemoveHasProblemShowDialogOneTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogOneMessage": "هل أنت متأكد من إزالة لديه مشكلة لهذه المشكلة؟",
+  "@allProblemsRemoveHasProblemShowDialogOneMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogOneCancel": "ألغاء",
+  "@allProblemsRemoveHasProblemShowDialogOneCancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogOneOk": "إزالة لديه مشكلة",
+  "@allProblemsRemoveHasProblemShowDialogOneOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogTwoDeaflut": "هناك خطأ ما",
+  "@allProblemsRemoveHasProblemShowDialogTwoDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogTwoOne": "المشكلة لديها مشكلة",
+  "@allProblemsRemoveHasProblemShowDialogTwoOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogTwoTwo": "المستخدم ليس موجود",
+  "@allProblemsRemoveHasProblemShowDialogTwoTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogTwoThree": "المشكلة غير موجودة",
+  "@allProblemsRemoveHasProblemShowDialogTwoThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogTwoFour": "أنت لست المالك لهذه المشكلة",
+  "@allProblemsRemoveHasProblemShowDialogTwoFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogTwoFive": "هذه المشكلة ليست لديها مشكلة",
+  "@allProblemsRemoveHasProblemShowDialogTwoFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogTwoTitle": "إزالة لديه مشكلة",
+  "@allProblemsRemoveHasProblemShowDialogTwoTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogTwoButtonOk": "حسنا",
+  "@allProblemsRemoveHasProblemShowDialogTwoButtonOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogOneTitle": "حذف المشكلة",
+  "@allProblemsDeleteProblemShowDialogOneTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogOneMessage": "هل أنت متأكد من حذف هذه المشكلة؟",
+  "@allProblemsDeleteProblemShowDialogOneMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogOneCancel": "ألغاء",
+  "@allProblemsDeleteProblemShowDialogOneCancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogOneOk": "حذف المشكلة",
+  "@allProblemsDeleteProblemShowDialogOneOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogTwoDeaflut": "هناك خطأ ما",
+  "@allProblemsDeleteProblemShowDialogTwoDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogTwoOne": "تم حذف المشكلة",
+  "@allProblemsDeleteProblemShowDialogTwoOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogTwoTwo": "المستخدم ليس موجود",
+  "@allProblemsDeleteProblemShowDialogTwoTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogTwoThree": "المشكلة غير موجودة",
+  "@allProblemsDeleteProblemShowDialogTwoThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogTwoFour": "أنت لست صاحب المشكلة",
+  "@allProblemsDeleteProblemShowDialogTwoFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogTwoTitle": "حذف المشكلة",
+  "@allProblemsDeleteProblemShowDialogTwoTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogTwoButtonOk": "حسنا",
+  "@allProblemsDeleteProblemShowDialogTwoButtonOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessage": "هذه المشكلة تم حلها بالفعل",
+  "@allProblemsReserveProblemScaffoldMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemSBTitle": "حجز مشكلة",
+  "@allProblemsReserveProblemSBTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemSBSelectDate": "حدد التاريخ والوقت",
+  "@allProblemsReserveProblemSBSelectDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageTwo": "يجب أن يكون تاريخ الحجز بعد",
+  "@allProblemsReserveProblemScaffoldMessageTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageThreeDeaflut": "هناك خطأ ما",
+  "@allProblemsReserveProblemScaffoldMessageThreeDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageThreeOne": "تم حجز المشكلة",
+  "@allProblemsReserveProblemScaffoldMessageThreeOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageThreeTwo": "المستخدم ليس موجود",
+  "@allProblemsReserveProblemScaffoldMessageThreeTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageThreeThree": "أدخل الوقت الصحيح للتاريخ مثل 1991-05-11 11:58:45",
+  "@allProblemsReserveProblemScaffoldMessageThreeThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageThreeFour": "المشكلة غير موجودة",
+  "@allProblemsReserveProblemScaffoldMessageThreeFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageThreeFive": "لا يمكنك حجز هذه المشكلة لأنها محجوزة من قبل",
+  "@allProblemsReserveProblemScaffoldMessageThreeFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageThreeSix": "انت لست عامل لكى تقوم بحجز هذه المشكلة",
+  "@allProblemsReserveProblemScaffoldMessageThreeSix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageThreeSeven": "أدخل الوقت والتاريخ بعد تاريخ مشكلة",
+  "@allProblemsReserveProblemScaffoldMessageThreeSeven": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemButton": "حجز المشكلة",
+  "@allProblemsReserveProblemButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageScaffoldMessageCommentsLess": "أقل عدد للتعليق هو 5 أحرف",
+  "@problemPageScaffoldMessageCommentsLess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageScaffoldMessageCommentsMore": "أكبر عدد للتعليق هو 350 حرفًا",
+  "@problemPageScaffoldMessageCommentsMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogTitle": "أضافة تعليق",
+  "@problemPageShowDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogOk": "حسنا",
+  "@problemPageShowDialogOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogDefualt": "هناك خطأ ما",
+  "@problemPageShowDialogDefualt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogOne": "تم إضافة التعليق",
+  "@problemPageShowDialogOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogTwo": "المستخدم ليس موجود",
+  "@problemPageShowDialogTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogThree": "من فضلك إدخال رقم المشكلة الصحيح",
+  "@problemPageShowDialogThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogFour": "تم حل هذه المشكلة",
+  "@problemPageShowDialogFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogFive": "غير مسموح لإضافة تعليق",
+  "@problemPageShowDialogFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogSix": "أقل عدد للتعليق هو 5 أحرف",
+  "@problemPageShowDialogSix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogSeven": "أكبر عدد للتعليق هو 350 حرفًا",
+  "@problemPageShowDialogSeven": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageNoComments": "لا يوجد تعليقات",
+  "@problemPageNoComments": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "problemPageScaffoldTitle": "مشكلة",
+  "@problemPageScaffoldTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageCommentLabel": "أدخل تعليقك",
+  "@problemPageCommentLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeNoUsersFounded": "لم يتم العثور على المستخدمين",
+  "@userTypeNoUsersFounded": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogTitle": "تغيير نوع المستخدم",
+  "@userTypeShowDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogOk": "خسنا",
+  "@userTypeShowDialogOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogDefualt": "هناك خطأ ما",
+  "@userTypeShowDialogDefualt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogOne": "تم تغيير نوع المستخدم",
+  "@userTypeShowDialogOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogTwo": "الرجاء تسجيل الدخول أولا",
+  "@userTypeShowDialogTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogThree": "أنت لست المالك أو المسئول",
+  "@userTypeShowDialogThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogFour": "المستخدم ليس موجود",
+  "@userTypeShowDialogFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogFive": "هذا العميل لديه مشكلة لم تحل بعد.",
+  "@userTypeShowDialogFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogSix": "قام هذا العامل بحجز مشكلة لم يتم حلها بعد.",
+  "@userTypeShowDialogSix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogSeven": "هذا العميل لديه مشكلة لم تحل بعد.",
+  "@userTypeShowDialogSeven": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogTeen": "قام هذا العامل بحجز مشكلة لم يتم حلها بعد.",
+  "@userTypeShowDialogTeen": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogEleven": "أنت لست المالك لضبط النوع",
+  "@userTypeShowDialogEleven": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogTwelve": "المالك الوحيد الذي يمكنه تغيير نوع المسؤول.",
+  "@userTypeShowDialogTwelve": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogThirty": "المالك الوحيد الذي يمكنه تغيير نوع المسؤول.",
+  "@userTypeShowDialogThirty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogFouirty": "لا يمكن أن يتم التغير إلى نفس النوع",
+  "@userTypeShowDialogFouirty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeChangeButtonText": "تغيير",
+  "@userTypeChangeButtonText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeChangeButtonAdmin": "مسئول",
+  "@userTypeChangeButtonAdmin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeChangeButtonUser": "عامل",
+  "@userTypeChangeButtonUser": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeChangeButtonClient": "عميل",
+  "@userTypeChangeButtonClient": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogOneTitle": "حذف مستخدم",
+  "@userTypeDeleteShowDialogOneTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogOneMessage": "هل أنت متأكد من حذف هذا المستخدم؟",
+  "@userTypeDeleteShowDialogOneMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogOneCancel": "ألغاء",
+  "@userTypeDeleteShowDialogOneCancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogOneOk": "حذف",
+  "@userTypeDeleteShowDialogOneOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoDeaflut": "هناك خطأ ما",
+  "@userTypeDeleteShowDialogTwoDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoOne": "تم حذف المستخدم",
+  "@userTypeDeleteShowDialogTwoOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoTwo": "الرجاء تسجيل الدخول أولا",
+  "@userTypeDeleteShowDialogTwoTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoThree": "أنت لست المالك",
+  "@userTypeDeleteShowDialogTwoThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoFour": "المستخدم ليس موجود",
+  "@userTypeDeleteShowDialogTwoFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoFive": "هذا المالك ولا يمكن حذف المالك",
+  "@userTypeDeleteShowDialogTwoFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoSix": "أنت لست المالك",
+  "@userTypeDeleteShowDialogTwoSix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoTitle": "حذف مستخدم",
+  "@userTypeDeleteShowDialogTwoTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoButtonOk": "حسنا",
+  "@userTypeDeleteShowDialogTwoButtonOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactdeveloperAppBarTitle": "معلومات الاتصال بالمطور",
+  "@contactdeveloperAppBarTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactdeveloperName": "أحمد طه عبدالله",
+  "@contactdeveloperName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileUserNameLabel": "اسم المستخدم",
+  "@editprofileUserNameLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileUserNameErrorEmpty": "اسم المستخدم فارغ",
+  "@editprofileUserNameErrorEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileUserNameErrorLess": "أقل عدد من اسم المستخدم هو 5 أحرف",
+  "@editprofileUserNameErrorLess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileUserNameErrorMore": "أكبر عدد من اسم المستخدم هو 12 حرفًا",
+  "@editprofileUserNameErrorMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileUserMobileLabel": "رقم الهاتف المحمول",
+  "@editprofileUserMobileLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileUserMobileErrorEmpty": "رقم الموبايل فارغ",
+  "@editprofileUserMobileErrorEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileUserMobileErrorWrong": "رقم الموبايل خطأ",
+  "@editprofileUserMobileErrorWrong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileAddressLabel": "العنوان",
+  "@editprofileAddressLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileAddressErrorEmpty": "العنوان فارغ",
+  "@editprofileAddressErrorEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileAddressErrorLess": "أقل عدد من عنوان المستخدم هو 5 أحرف",
+  "@editprofileAddressErrorLess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileAddressErrorMore": "أكبر عدد من عنوان المستخدم هو 250 حرفًا",
+  "@editprofileAddressErrorMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogTitle": "تعديل الملف الشخصى للمستخدم",
+  "@editprofileShowDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogOk": "حسنا",
+  "@editprofileShowDialogOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogDeaflut": "هناك خطأ ما",
+  "@editprofileShowDialogDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogOne": "تم تحديث بيانات المستخدم",
+  "@editprofileShowDialogOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogTwo": "المستخدم ليس موجود",
+  "@editprofileShowDialogTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogThree": "أقل عدد من اسم المستخدم هو 5 أحرف",
+  "@editprofileShowDialogThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogFour": "أكبر عدد من اسم المستخدم هو 12 حرفًا",
+  "@editprofileShowDialogFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogFive": "رقم الموبايل خطأ",
+  "@editprofileShowDialogFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogSix": "أقل عدد من عنوان المستخدم هو 5 أحرف",
+  "@editprofileShowDialogSix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogSeven": "أكبر عدد من عنوان المستخدم هو 250 حرفًا",
+  "@editprofileShowDialogSeven": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogTwoTitle": "خطأ",
+  "@editprofileShowDialogTwoTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogTwoOk": "حسنا",
+  "@editprofileShowDialogTwoOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileSaveButton": "تعديل",
+  "@editprofileSaveButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileAppBarTitle": "تعديل الملف الشخصى",
+  "@editprofileAppBarTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdLabel": "كلمة المرور",
+  "@changePasswrdLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdErrorEmpty": "كلمة مرور فارغة",
+  "@changePasswrdErrorEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdErrorLess": "أقل عدد من كلمة مرور المستخدم هو 5 أحرف",
+  "@changePasswrdErrorLess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdErrorMore": "أكبر عدد من كلمة مرور المستخدم هو 12 حرفًا",
+  "@changePasswrdErrorMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogTitle": "تغيير كلمة السر",
+  "@changePasswrdShowDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogOk": "حسنا",
+  "@changePasswrdShowDialogOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogDeaflut": "هناك خطأ ما",
+  "@changePasswrdShowDialogDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogOne": "تم تغيير كلمة السر",
+  "@changePasswrdShowDialogOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogTwo": "المستخدم ليس موجود",
+  "@changePasswrdShowDialogTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogThree": "أقل عدد من كلمة مرور المستخدم هو 5 أحرف",
+  "@changePasswrdShowDialogThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogFour": "أكبر عدد من كلمة مرور المستخدم هو 12 حرفًا",
+  "@changePasswrdShowDialogFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogTwoTitle": "خطأ",
+  "@changePasswrdShowDialogTwoTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogTwoOk": "حسنا",
+  "@changePasswrdShowDialogTwoOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdSaveButton": "تعديل",
+  "@changePasswrdSaveButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdAppBarTitle": "تغيير كلمة السر",
+  "@changePasswrdAppBarTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemLabel": "وصف المشكلة",
+  "@addProblemLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemErrorEmpty": "الوصف فارغ",
+  "@addProblemErrorEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemErrorLess": "أقل عدد من الوصف هو 10 أحرف",
+  "@addProblemErrorLess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemErrorMore": "أكبر عدد من الوصف هو 250 حرفًا",
+  "@addProblemErrorMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogTitle": "أضافة مشكلة",
+  "@addProblemShowDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogOk": "حسنا",
+  "@addProblemShowDialogOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogDeaflut": "هناك خطأ ما",
+  "@addProblemShowDialogDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogOne": "تمت إضافة المشكلة",
+  "@addProblemShowDialogOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogTwo": "المستخدم ليس موجود",
+  "@addProblemShowDialogTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogThree": "أنت لست عميل لإضافة مشكلة",
+  "@addProblemShowDialogThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogFour": "أقل عدد من وصف المشكلة هو 10 أحرف",
+  "@addProblemShowDialogFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogFive": "أكبر عدد من وصف المشلكة هو 250 حرفا",
+  "@addProblemShowDialogFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogTwoTitle": "خطأ",
+  "@addProblemShowDialogTwoTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogTwoOk": "حسنا",
+  "@addProblemShowDialogTwoOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemSaveButton": "أضافة مشكلة",
+  "@addProblemSaveButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemAppBarTitle": "أضافة مشكلة",
+  "@addProblemAppBarTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customCircleAvaterError": "خطأ",
+  "@customCircleAvaterError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imagePickAnImage": "اختيار صورة",
+  "@imagePickAnImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imageUseCamera": "استخدام الكاميرا",
+  "@imageUseCamera": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imageUseGallery": "استخدام معرض",
+  "@imageUseGallery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imagePleasePickAnImage": "يرجى اختيار صورة",
+  "@imagePleasePickAnImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imageCanNotloadProductImage": "لا يمكن تحميل صورة المستخدم.",
+  "@imageCanNotloadProductImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imageAddImage": "إضافة صورة",
+  "@imageAddImage": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

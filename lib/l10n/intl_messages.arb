@@ -1,0 +1,1279 @@
+{
+  "@@last_modified": "2019-05-05T20:06:29.207245",
+  "language": "عربي",
+      "@homeTab": {
+        "type": "text",
+        "placeholders": {}
+      },
+  "appTitle": "My Services",
+  "@appTitle": {
+    "description": "The application title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noInternetConnection": "No Internet Connection",
+  "@noInternetConnection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingFirstTitle": "Welcome!",
+  "@onboardingFirstTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingFirstDescription": "Making Friends is easy as waving your hand back and forth in easy step.",
+  "@onboardingFirstDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingSecondTitle": "Images",
+  "@noInternetConnection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingSecondDescription": "Making Images is easy as waving your hand back and forth in easy step.",
+  "@onboardingSecondDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingThirdTitle": "Videos",
+  "@onboardingThirdTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingThirdDescription": "Making Videos is easy as waving your hand back and forth in easy step.",
+  "@onboardingThirdDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingFouirthTitle": "Places",
+  "@onboardingFouirthTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingFouirthDescription": "Making Places is easy as waving your hand back and forth in easy step.",
+  "@onboardingFouirthDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "onboardingGetStartedButton": "GET STARTED",
+  "@onboardingGetStartedButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authEmailTextFormFieldLabelText": "Email",
+  "@authEmailTextFormFieldLabelText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authEmailTextFormFieldLabelError": "invaild Email",
+  "@authEmailTextFormFieldLabelError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authPasswordTextFormFieldLabelText": "Password",
+  "@authPasswordTextFormFieldLabelText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authPasswordTextFormFieldLabelErrorEmpty": "Password is not empty",
+  "@authPasswordTextFormFieldLabelErrorEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authPasswordTextFormFieldLabelErrorMore": "Password more than 5 letters",
+  "@authPasswordTextFormFieldLabelErrorMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authPasswordTextFormFieldLabelErrorLess": "Password less than 12 letters",
+  "@authPasswordTextFormFieldLabelErrorLess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authConfirmPasswordTextFormFieldLabelText": "Confirm Password",
+  "@authConfirmPasswordTextFormFieldLabelText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authConfirmPasswordTextFormFieldLabelError": "Password Not matched",
+  "@authConfirmPasswordTextFormFieldLabelError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authUserNameTextFormFieldLabelText": "User Name",
+  "@authUserNameTextFormFieldLabelText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authUserNameTextFormFieldLabelErrorEmpty": "user name is not empty",
+  "@authUserNameTextFormFieldLabelErrorEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authUserNameTextFormFieldLabelErrorMore": "user name more than 5 letters",
+  "@authUserNameTextFormFieldLabelErrorMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authUserNameTextFormFieldLabelErrorLess": "user name less than 12 letters",
+  "@authUserNameTextFormFieldLabelErrorLess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authLoginShowDialogDeaflut": "Something Went Wrong",
+  "@authLoginShowDialogDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authLoginShowDialogTwo": "Email Not Found",
+  "@authLoginShowDialogTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authLoginShowDialogThree": "Wrong Password",
+  "@authLoginShowDialogThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authLoginShowDialogTitle": "Login",
+  "@authLoginShowDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authLoginShowDialogButtonOk": "Ok",
+  "@authLoginShowDialogButtonOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogDeaflut": "Something Went Wrong",
+  "@authSignupShowDialogDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogTwo": "Email Not Found",
+  "@authSignupShowDialogTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogThree": "enter correct email",
+  "@authSignupShowDialogThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogFour": "The lowest number of user name is 5 letters",
+  "@authSignupShowDialogFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogFive": "The largest  number of user name is 12 letters",
+  "@authSignupShowDialogFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogSix": "The lowest number of user password is 5 letters",
+  "@authSignupShowDialogSix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogSeven": "The largest  number of user password is 12 letters",
+  "@authSignupShowDialogSeven": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogTitle": "Signup",
+  "@authSignupShowDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSignupShowDialogButtonOk": "Ok",
+  "@authSignupShowDialogButtonOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authAppBarTitleLogin": "Login",
+  "@authAppBarTitleLogin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authAppBarTitleSignup": "Signup",
+  "@authAppBarTitleSignup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authRaisedButtonLogin": "Login",
+  "@authRaisedButtonLogin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authRaisedButtonSignup": "Signup",
+  "@authRaisedButtonSignup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSwitchToLogin": "Switch To Login",
+  "@authSwitchToLogin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "authSwitchToSignup": "Switch To Signup",
+  "@authSwitchToSignup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsAppBarTitle": "Home",
+  "@allProblemsAppBarTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsChangePassword": "Change Password",
+  "@allProblemsChangePassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsContactUs": "Contact Us",
+  "@allProblemsContactUs": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsScaffoldMessageOne": "Wait untill finish Loading Problems",
+  "@allProblemsScaffoldMessageOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsScaffoldMessageTwo": "Please Wait ......",
+  "@allProblemsScaffoldMessageTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsNoProblemsFound": "No Problems Found!",
+  "@allProblemsNoProblemsFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerNewProblems": "New Problems",
+  "@allProblemsDrawerNewProblems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerNewProblemsTitle": "New Problems",
+  "@allProblemsDrawerNewProblemsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerHasProblems": "Has Problems",
+  "@allProblemsDrawerHasProblems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerHasProblemsTitle": "Has Problems",
+  "@allProblemsDrawerHasProblemsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerSolveProblems": "Solve Problems",
+  "@allProblemsDrawerSolveProblems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerSolveProblemsTitle": "Solved Problems",
+  "@allProblemsDrawerSolveProblemsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerAdmins": "Admins",
+  "@allProblemsDrawerAdmins": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerAdminsTitle": "All Admins",
+  "@allProblemsDrawerAdminsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerUsers": "Users",
+  "@allProblemsDrawerUsers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerUsersTitle": "All Users",
+  "@allProblemsDrawerUsersTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerClients": "Clients",
+  "@allProblemsDrawerClients": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerClientsTitle": "All Clients",
+  "@allProblemsDrawerClientsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerNew": "New",
+  "@allProblemsDrawerNew": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerNewTitle": "All New",
+  "@allProblemsDrawerNewTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerEditProfile": "Edit Profile",
+  "@allProblemsDrawerEditProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerEditProfileImportant": "Important",
+  "@allProblemsDrawerEditProfileImportant": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDrawerLogout": "Logout",
+  "@allProblemsDrawerLogout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolvedButtonBefore": "Solve",
+  "@allProblemsSolvedButtonBefore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolvedButtonAfter": "Solved",
+  "@allProblemsSolvedButtonAfter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemButtonBefore": "has Problem",
+  "@allProblemsHasProblemButtonBefore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemButtonAfter": "has Problem",
+  "@allProblemsHasProblemButtonAfter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReservedButtonBefore": "Reserve",
+  "@allProblemsReservedButtonBefore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReservedButtonAfter": "Reserved",
+  "@allProblemsReservedButtonAfter": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsComments": "Comments",
+  "@allProblemsComments": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsMore": "More",
+  "@allProblemsMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemScaffoldOne": "Can Not Solve Problem For Problem that has Problem",
+  "@allProblemsSolveProblemScaffoldOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogOneTitle": "Solve Problem",
+  "@allProblemsSolveProblemShowDialogOneTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogOneMessage": "Are You Sure About Solve This Problem ?",
+  "@allProblemsSolveProblemShowDialogOneMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogOne,Cancel": ",Cancel",
+  "@allProblemsSolveProblemShowDialogOne,Cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogOneOk": "Solve Problem",
+  "@allProblemsSolveProblemShowDialogOneOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoDeaflut": "Something Went Wrong",
+  "@allProblemsSolveProblemShowDialogTwoDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoOne": "Problem Solved",
+  "@allProblemsSolveProblemShowDialogTwoOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoTwo": "user not found",
+  "@allProblemsSolveProblemShowDialogTwoTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoThree": "user not found",
+  "@allProblemsSolveProblemShowDialogTwoThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoThree": "problem not found",
+  "@allProblemsSolveProblemShowDialogTwoThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoFour": "you are not owner for this problem",
+  "@allProblemsSolveProblemShowDialogTwoFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoFive": "can not solve problem because it has problem",
+  "@allProblemsSolveProblemShowDialogTwoFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoSix": "problem solved before",
+  "@allProblemsSolveProblemShowDialogTwoSix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoTitle": "Solve Problem",
+  "@allProblemsSolveProblemShowDialogTwoTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsSolveProblemShowDialogTwoButtonOk": "Ok",
+  "@allProblemsSolveProblemShowDialogTwoButtonOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemScaffoldOne": "Can Not Add Has Problem For Solved Problem",
+  "@allProblemsHasProblemScaffoldOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogOneTitle": "Has Problem",
+  "@allProblemsHasProblemShowDialogOneTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogOneMessage": "Are You Sure About Has Problem for This Problem ?",
+  "@allProblemsHasProblemShowDialogOneMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogOne,Cancel": ",Cancel",
+  "@allProblemsHasProblemShowDialogOne,Cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogOneOk": "Has Problem",
+  "@allProblemsHasProblemShowDialogOneOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoDeaflut": "Something Went Wrong",
+  "@allProblemsHasProblemShowDialogTwoDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoOne": "Problem Has Problem",
+  "@allProblemsHasProblemShowDialogTwoOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoTwo": "user not found",
+  "@allProblemsHasProblemShowDialogTwoTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoThree": "problem not found",
+  "@allProblemsHasProblemShowDialogTwoThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoFour": "you are not owner for this problem",
+  "@allProblemsHasProblemShowDialogTwoFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoFive": "can not has problem because it solved problem",
+  "@allProblemsHasProblemShowDialogTwoFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoSix": "problem has problem before",
+  "@allProblemsHasProblemShowDialogTwoSix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoSeven": "reserve date time not come yet",
+  "@allProblemsHasProblemShowDialogTwoSeven": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoEgiht": "you did not spent one day for problem",
+  "@allProblemsHasProblemShowDialogTwoEgiht": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoTitle": "Has Problem",
+  "@allProblemsHasProblemShowDialogTwoTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsHasProblemShowDialogTwoButtonOk": "Ok",
+  "@allProblemsHasProblemShowDialogTwoButtonOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogOneTitle": ""Remove Has Problem",
+  "@allProblemsRemoveHasProblemShowDialogOneTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogOneMessage": "Are You Sure About Remove Has Problem for This Problem ?",
+  "@allProblemsRemoveHasProblemShowDialogOneMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogOne,Cancel": ",Cancel",
+  "@allProblemsRemoveHasProblemShowDialogOne,Cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogOneOk": "Remove Has Problem",
+  "@allProblemsRemoveHasProblemShowDialogOneOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogTwoDeaflut": "Something Went Wrong",
+  "@allProblemsRemoveHasProblemShowDialogTwoDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogTwoOne": "Problem Has Problem",
+  "@allProblemsRemoveHasProblemShowDialogTwoOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogTwoTwo": "user not found",
+  "@allProblemsRemoveHasProblemShowDialogTwoTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogTwoThree": "problem not found",
+  "@allProblemsRemoveHasProblemShowDialogTwoThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogTwoFour": "you are not owner for this problem",
+  "@allProblemsRemoveHasProblemShowDialogTwoFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogTwoFive": "this problem not has problem",
+  "@allProblemsRemoveHasProblemShowDialogTwoFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogTwoTitle": "Remove Has Problem",
+  "@allProblemsRemoveHasProblemShowDialogTwoTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsRemoveHasProblemShowDialogTwoButtonOk": "Ok",
+  "@allProblemsRemoveHasProblemShowDialogTwoButtonOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogOneTitle": "Delete Problem",
+  "@allProblemsDeleteProblemShowDialogOneTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogOneMessage": "Are You Sure About Delete This Problem ?",
+  "@allProblemsDeleteProblemShowDialogOneMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogOne,Cancel": ",Cancel",
+  "@allProblemsDeleteProblemShowDialogOne,Cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogOneOk": "Problem Delete",
+  "@allProblemsDeleteProblemShowDialogOneOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogTwoDeaflut": "Something Went Wrong",
+  "@allProblemsDeleteProblemShowDialogTwoDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogTwoOne": "Problem Deleted",
+  "@allProblemsDeleteProblemShowDialogTwoOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogTwoTwo": "user not found",
+  "@allProblemsDeleteProblemShowDialogTwoTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogTwoThree": "problem not found",
+  "@allProblemsDeleteProblemShowDialogTwoThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogTwoFour": "you are not the problem owner",
+  "@allProblemsDeleteProblemShowDialogTwoFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogTwoTitle": "Delete Problem",
+  "@allProblemsDeleteProblemShowDialogTwoTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsDeleteProblemShowDialogTwoButtonOk": "Ok",
+  "@allProblemsDeleteProblemShowDialogTwoButtonOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessage": "This Problem Already Solved",
+  "@allProblemsReserveProblemScaffoldMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemSBTitle": "Reserve Problem",
+  "@allProblemsReserveProblemSBTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemSBSelectDate": "Select DateTime",
+  "@allProblemsReserveProblemSBSelectDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageTwo": "Reserve Date Should be After",
+  "@allProblemsReserveProblemScaffoldMessageTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageThreeDeaflut": "Something Went Wrong",
+  "@allProblemsReserveProblemScaffoldMessageThreeDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageThreeOne": "Problem Reserved",
+  "@allProblemsReserveProblemScaffoldMessageThreeOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageThreeTwo": "user not found",
+  "@allProblemsReserveProblemScaffoldMessageThreeTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageThreeThree": "enter correct date time like 1991-05-11 11:58:45",
+  "@allProblemsReserveProblemScaffoldMessageThreeThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageThreeFour": "problem not found",
+  "@allProblemsReserveProblemScaffoldMessageThreeFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageThreeFive": "you can not reserve this problem because it reserved before",
+  "@allProblemsReserveProblemScaffoldMessageThreeFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageThreeSix": "your user type is not user to reserve this problem",
+  "@allProblemsReserveProblemScaffoldMessageThreeSix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemScaffoldMessageThreeSeven": "enter datetime after problem datetime",
+  "@allProblemsReserveProblemScaffoldMessageThreeSeven": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "allProblemsReserveProblemButton": "Reserve Problem",
+  "@allProblemsReserveProblemButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageScaffoldMessageCommentsLess": "The lowest number of comment is 5 letters",
+  "@problemPageScaffoldMessageCommentsLess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageScaffoldMessageCommentsMore": "The largest  number of comment is 350 letters",
+  "@problemPageScaffoldMessageCommentsMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogTitle": "Add Comment",
+  "@problemPageShowDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogOk": "Ok",
+  "@problemPageShowDialogOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogDefualt": "Something Went Wrong",
+  "@problemPageShowDialogDefualt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogOne": "Comment Added",
+  "@problemPageShowDialogOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogTwo": "user not found",
+  "@problemPageShowDialogTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogThree": "please enter correct problem_id",
+  "@problemPageShowDialogThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogFour": "this problem is solved",
+  "@problemPageShowDialogFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogFive": "not allow to add has problem",
+  "@problemPageShowDialogFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogSix": "The lowest number of comment is 5 letters",
+  "@problemPageShowDialogSix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageShowDialogSeven": "The largest  number of comment is 350 letters",
+  "@problemPageShowDialogSeven": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageNoComments": "No Comments",
+  "@problemPageNoComments": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageScaffoldTitle": "Problem",
+  "@problemPageScaffoldTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "problemPageCommentLabel": "Enter Your Comment",
+  "@problemPageCommentLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeNoUsersFounded": "No Users Found!",
+  "@userTypeNoUsersFounded": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogTitle": "Change User Type",
+  "@userTypeShowDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogOk": "Ok",
+  "@userTypeShowDialogOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogDefualt": "Something Went Wrong",
+  "@userTypeShowDialogDefualt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogOne": "User Type Changed",
+  "@userTypeShowDialogOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogTwo": "please Login first",
+  "@userTypeShowDialogTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogThree": "you are not owner or admin",
+  "@userTypeShowDialogThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogFour": "user not found",
+  "@userTypeShowDialogFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogFive": "this client has problem not solved yet.",
+  "@userTypeShowDialogFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogSix": "this user has reserved problem not solved yet.",
+  "@userTypeShowDialogSix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogSeven": "this client has problem not solved yet.",
+  "@userTypeShowDialogSeven": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogTeen": "this user has reserved problem not solved yet.",
+  "@userTypeShowDialogTeen": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogEleven": "you are not owner to set type",
+  "@userTypeShowDialogEleven": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogTwelve": "only owner who can change admin type.",
+  "@userTypeShowDialogTwelve": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogThirty": "only owner who can change admin type.",
+  "@userTypeShowDialogThirty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeShowDialogFouirty": "can not change to same Type",
+  "@userTypeShowDialogFouirty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeChangeButtonText": "Change",
+  "@userTypeChangeButtonText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeChangeButtonAdmin": "Admin",
+  "@userTypeChangeButtonAdmin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeChangeButtonUser": "User",
+  "@userTypeChangeButtonUser": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeChangeButtonClient": "Client",
+  "@userTypeChangeButtonClient": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogOneTitle": "Delete User",
+  "@userTypeDeleteShowDialogOneTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogOneMessage": "Are You Sure About Delete This User ?",
+  "@userTypeDeleteShowDialogOneMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogOne,Cancel": ",Cancel",
+  "@userTypeDeleteShowDialogOne,Cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogOneOk": "Delete",
+  "@userTypeDeleteShowDialogOneOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoDeaflut": "Something Went Wrong",
+  "@userTypeDeleteShowDialogTwoDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoOne": "User Deleted",
+  "@userTypeDeleteShowDialogTwoOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoTwo": "please Login first",
+  "@userTypeDeleteShowDialogTwoTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoThree": "you are not owner",
+  "@userTypeDeleteShowDialogTwoThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoFour": "user not found",
+  "@userTypeDeleteShowDialogTwoFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoFive": "this owner and can not delete owner",
+  "@userTypeDeleteShowDialogTwoFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoSix": "you are not owner",
+  "@userTypeDeleteShowDialogTwoSix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoTitle": "Delete User",
+  "@userTypeDeleteShowDialogTwoTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userTypeDeleteShowDialogTwoButtonOk": "Ok",
+  "@userTypeDeleteShowDialogTwoButtonOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactdeveloperAppBarTitle": "Developer Contact Information",
+  "@contactdeveloperAppBarTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactdeveloperName": "Ahmed Taha Abdallah",
+  "@contactdeveloperName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileUserNameLabel": "User Name",
+  "@editprofileUserNameLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileUserNameErrorEmpty": "User Name Empty",
+  "@editprofileUserNameErrorEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileUserNameErrorLess": "The lowest number of user name is 5 letters",
+  "@editprofileUserNameErrorLess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileUserNameErrorMore": "The largest  number of user name is 12 letters",
+  "@editprofileUserNameErrorMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileUserMobileLabel": "Mobile Number",
+  "@editprofileUserMobileLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileUserMobileErrorEmpty": "Mobile Number Empty",
+  "@editprofileUserMobileErrorEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileUserMobileErrorWrong": "wrong mobile number",
+  "@editprofileUserMobileErrorWrong": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileAddressLabel": "Address",
+  "@editprofileAddressLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileAddressErrorEmpty": "Address empty",
+  "@editprofileAddressErrorEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileAddressErrorLess": "The lowest number of user address is 5 letters",
+  "@editprofileAddressErrorLess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileAddressErrorMore": "The largest  number of user address is 250 letters",
+  "@editprofileAddressErrorMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogTitle": "Edit User Profile",
+  "@editprofileShowDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogOk": "Ok",
+  "@editprofileShowDialogOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogDeaflut": "Something Went Wrong",
+  "@editprofileShowDialogDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogOne": "user updated",
+  "@editprofileShowDialogOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogTwo": "user not found",
+  "@editprofileShowDialogTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogThree": "The lowest number of user name is 5 letters",
+  "@editprofileShowDialogThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogFour": "The largest  number of user name is 12 letters",
+  "@editprofileShowDialogFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogFive": "wrong mobile number",
+  "@editprofileShowDialogFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogSix": "The lowest number of user address is 5 letters",
+  "@editprofileShowDialogSix": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogSeven": "The largest  number of user address is 250 letters",
+  "@editprofileShowDialogSeven": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogTwoTitle": "Error",
+  "@editprofileShowDialogTwoTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileShowDialogTwoOk": "Ok",
+  "@editprofileShowDialogTwoOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileSaveButton": "Save",
+  "@editprofileSaveButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editprofileAppBarTitle": "Edit Profile",
+  "@editprofileAppBarTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdLabel": "Password",
+  "@changePasswrdLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdErrorEmpty": "empty Password",
+  "@changePasswrdErrorEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdErrorLess": "The lowest number of user password is 5 letters",
+  "@changePasswrdErrorLess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdErrorMore": "The largest  number of user password is 12 letters",
+  "@changePasswrdErrorMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogTitle": "Password Change",
+  "@changePasswrdShowDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogOk": "Ok",
+  "@changePasswrdShowDialogOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogDeaflut": "Something Went Wrong",
+  "@changePasswrdShowDialogDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogOne": "Pssword Changed",
+  "@changePasswrdShowDialogOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogTwo": "user not found",
+  "@changePasswrdShowDialogTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogThree": "The lowest number of user password is 5 letters",
+  "@changePasswrdShowDialogThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogFour": "The largest  number of user password is 12 letters",
+  "@changePasswrdShowDialogFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogTwoTitle": "Error",
+  "@changePasswrdShowDialogTwoTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdShowDialogTwoOk": "Ok",
+  "@changePasswrdShowDialogTwoOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdSaveButton": "Save",
+  "@changePasswrdSaveButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changePasswrdAppBarTitle": "Change Password",
+  "@changePasswrdAppBarTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemLabel": "Problem Description",
+  "@addProblemLabel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemErrorEmpty": "empty Description",
+  "@addProblemErrorEmpty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemErrorLess": "The lowest number of Description is 10 letters",
+  "@addProblemErrorLess": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemErrorMore": "The largest  number of Description is 250 letters",
+  "@addProblemErrorMore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogTitle": "Add Problem",
+  "@addProblemShowDialogTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogOk": "Ok",
+  "@addProblemShowDialogOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogDeaflut": "Something Went Wrong",
+  "@addProblemShowDialogDeaflut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogOne": "Problem Added",
+  "@addProblemShowDialogOne": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogTwo": "user not found",
+  "@addProblemShowDialogTwo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogThree": "you are not client to add problem",
+  "@addProblemShowDialogThree": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogFour": "The lowest number of problem description is 10 letters",
+  "@addProblemShowDialogFour": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogFive": "The largest  number of problem description is 250 letters",
+  "@addProblemShowDialogFive": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogTwoTitle": "Error",
+  "@addProblemShowDialogTwoTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemShowDialogTwoOk": "Ok",
+  "@addProblemShowDialogTwoOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemSaveButton": "Add Problem",
+  "@addProblemSaveButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addProblemAppBarTitle": "Add Problem",
+  "@addProblemAppBarTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "customCircleAvaterError": "Error",
+  "@customCircleAvaterError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imagePickAnImage": "Pick an Image",
+  "@imagePickAnImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imageUseCamera": "Use Camera",
+  "@imageUseCamera": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imageUseGallery": "Use Gallery",
+  "@imageUseGallery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imagePleasePickAnImage": "Please Pick An Image",
+  "@imagePleasePickAnImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imageCanNotloadProductImage": "Can not load User Image.",
+  "@imageCanNotloadProductImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "imageAddImage": "Add Image",
+  "@imageAddImage": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
