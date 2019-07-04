@@ -1,7 +1,7 @@
 //final String apiKey = 'AIzaSyCqyuBNcIYTHaIyIaYdUXravGKNo-WuuFo';
 //final String apiKey = 'AIzaSyA800w-jmvFOb2x6UUOz5Aarrg08KG0c3U';
 
-final String BASEURL = 'https://real-es.000webhostapp.com';
+final String BASEURL = 'https://my-easyservice.000webhostapp.com';
 final String REGISTER = '/api/register';
 final String LOGIN = '/api/login';
 

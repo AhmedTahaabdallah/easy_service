@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:real_estate_servicing/pages/allproblems.dart';
 import 'package:scoped_model/scoped_model.dart';
 import '../scoped-models/main.dart';
 import '../models/auth.dart';
@@ -265,7 +266,8 @@ class _AuthPageState extends State<AuthPage> with TickerProviderStateMixin {
                 );
               });
         } else {
-          Navigator.pushReplacementNamed(context, '/home');
+          bool isEng = Localizations.localeOf(context).languageCode.contains("en");
+          Navigator.pushReplacement(contextt, MaterialPageRoute(builder: (BuildContext cont) => AllProblemsPage(model, widget.responsveFunc, MediaQuery.of(cont).size.width, MediaQuery.of(cont).size.height, isEng))); 
         }
       } else if (_authMode == AuthMode.Signup) {
         Map<String, dynamic> successInformation =
@@ -340,7 +342,7 @@ class _AuthPageState extends State<AuthPage> with TickerProviderStateMixin {
 
   @override
   Widget build(BuildContext context) {
-    List<dynamic> myRespFunc = widget.responsveFunc(context);
+    List<dynamic> myRespFunc = widget.responsveFunc(context: context);
     return Scaffold(
       key: _scafoldKey,
       appBar: AppBar(

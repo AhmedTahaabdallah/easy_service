@@ -13,7 +13,10 @@ import '../widgets/helpers/ensure_visible.dart';
 class ProblemPage extends StatefulWidget {
   final MainModel model;
   final Function myRespFunc;
-  ProblemPage(this.model, this.myRespFunc);
+  final double screenWidth;
+  final double screenheight;
+  final bool locale;
+  ProblemPage(this.model, this.myRespFunc, this.screenWidth,this.screenheight, this.locale);
   @override
   _ProblemPageState createState() => _ProblemPageState();
 }
@@ -51,7 +54,7 @@ class _ProblemPageState extends State<ProblemPage>
   void initState() {
     _problemm = widget.model.allProblems[widget.model.selProblemmIdProblemPage];
     widget.model.clearAllHasProblems();
-    List<dynamic> myRes = widget.myRespFunc(context);
+    List<dynamic> myRes = widget.myRespFunc(wid: widget.screenWidth, hieg: widget.screenheight, loca: widget.locale);
     _content = Center(
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -841,7 +844,7 @@ class _ProblemPageState extends State<ProblemPage>
 
   @override
   Widget build(BuildContext context) {
-    List<dynamic> myResp = widget.myRespFunc(context);
+    List<dynamic> myResp = widget.myRespFunc(context: context);
     return ScopedModelDescendant<MainModel>(
       builder: (context, child, model) {
         //User myUser = widget.model.user;

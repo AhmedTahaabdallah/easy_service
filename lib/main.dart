@@ -18,13 +18,16 @@ import './funcations/responsevefuncation.dart';
 void main() async {
   SharedPreferences prefs = await SharedPreferences.getInstance();
   //prefs.setBool('seen', false);
-  runApp(MyApp(prefs.getBool('seen'), prefs.getString('myAppLocale')));
+  runApp(MyApp(prefs.getBool('seen'), prefs.getString('myAppLocale'), prefs.getDouble('screenwidth'), prefs.getDouble('screenheight'), prefs.getBool('locale')));
 }
 
 class MyApp extends StatefulWidget {
   final bool seen;
   final String myLocale;
-  MyApp(this.seen, this.myLocale);
+  final double screenwidth;
+  final double screenheight;
+  final bool locale;
+  MyApp(this.seen, this.myLocale, this.screenwidth, this.screenheight, this.locale);
   @override
   State<StatefulWidget> createState() {
     return _MyAppState();
@@ -52,9 +55,9 @@ class _MyAppState extends State<MyApp> {
   }
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context1) {
     //Locale mylocale = Localizations.localeOf(context);
-
+    
     bool isEng = false;
     if(widget.myLocale == 'en'){
       isEng = true;
@@ -89,20 +92,24 @@ class _MyAppState extends State<MyApp> {
             routes: {
               '/': (BuildContext cont) => _seen == null || !_seen
                   ? OnBoarding(_model,getResponseve)
-                  : !_isAuthenticated ? AuthPage(getResponseve) : AllProblemsPage(_model, getResponseve),
+                  : !_isAuthenticated ? AuthPage(getResponseve) : AllProblemsPage(_model, getResponseve, widget.screenwidth, widget.screenheight, widget.locale),
               '/home': (BuildContext cont) =>
-                  !_isAuthenticated ? AuthPage(getResponseve) : AllProblemsPage(_model, getResponseve),
+                  !_isAuthenticated ? AuthPage(getResponseve) : AllProblemsPage(_model, getResponseve, widget.screenwidth, widget.screenheight, widget.locale),
               //'/products' : (BuildContext cont) => AllProductsPage(_model),
               //'/admin' : (BuildContext cont) => !_isAuthenticated ? AuthPage(): AllProductsPage(_model),
             },
             onGenerateRoute: (RouteSettings settings) {
+              /*final List<String> pathElement = settings.name.split('/');
+              if(pathElement[0] != ''){
+                return null;
+              }*/
               switch (settings.name) {
                 case '/':
                   return CustomeRoute(
                       settings: RouteSettings(isInitialRoute: false),
                       builder: (_) {
                         return _isAuthenticated
-                            ? AllProblemsPage(_model, getResponseve)
+                            ? AllProblemsPage(_model, getResponseve, widget.screenwidth, widget.screenheight, widget.locale)
                             : AuthPage(getResponseve);
                       });
                 /*case '/login':
@@ -110,10 +117,10 @@ class _MyAppState extends State<MyApp> {
                   builder: (_) => AuthPage());*/
                 case '/home':
                   return MaterialPageRoute(
-                      builder: (_) => AllProblemsPage(_model, getResponseve));
+                      builder: (_) => AllProblemsPage(_model, getResponseve, widget.screenwidth, widget.screenheight, widget.locale));
                 case '/problempage':
                   return CustomeRoute(builder: (_) {
-                    return _isAuthenticated ? ProblemPage(_model, getResponseve) : AuthPage(getResponseve);
+                    return _isAuthenticated ? ProblemPage(_model, getResponseve, widget.screenwidth, widget.screenheight, widget.locale) : AuthPage(getResponseve);
                   });
                 case '/changepassword':
                   return CustomeRoute(builder: (_) {
@@ -144,7 +151,7 @@ class _MyAppState extends State<MyApp> {
             onUnknownRoute: (RouteSettings settings) {
               return MaterialPageRoute(
                   builder: (BuildContext cont) =>
-                      !_isAuthenticated ? AuthPage(getResponseve) : AllProblemsPage(_model, getResponseve));
+                      !_isAuthenticated ? AuthPage(getResponseve) : AllProblemsPage(_model, getResponseve, widget.screenwidth, widget.screenheight, widget.locale));
             },
           );
         }));

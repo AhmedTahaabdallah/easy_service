@@ -15,7 +15,10 @@ import 'package:connectivity/connectivity.dart';
 class AllProblemsPage extends StatefulWidget {
   final MainModel model;
   final Function myRespFunc;
-  AllProblemsPage(this.model, this.myRespFunc);
+  final double screenWidth;
+  final double screenHeight;
+  final bool locale;
+  AllProblemsPage(this.model, this.myRespFunc,this.screenWidth, this.screenHeight, this.locale);
   @override
   State<StatefulWidget> createState() {
     return _AllProblemsPageState();
@@ -50,7 +53,8 @@ class _AllProblemsPageState extends State<AllProblemsPage> {
   @override
   initState() {
     widget.model.clearAllProblems();
-    List<dynamic> myResp = widget.myRespFunc(context);
+    List<dynamic> myResp = widget.myRespFunc(context: context,wid: widget.screenWidth, hieg: widget.screenHeight, loca: widget.locale);
+
     content = ScopedModelDescendant<MainModel>(
         builder: (BuildContext context, Widget child, MainModel model) {
       return /*model.user.userstypeId == 5
@@ -213,7 +217,7 @@ class _AllProblemsPageState extends State<AllProblemsPage> {
 
   @override
   Widget build(BuildContext context) {
-    List<dynamic> myResp = widget.myRespFunc(context);
+    List<dynamic> myResp = widget.myRespFunc(context: context);
     //print(widget.model.user.avater);
     return Scaffold(
       key: _scaffoldKey,

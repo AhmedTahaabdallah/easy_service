@@ -97,15 +97,19 @@ class _OnBoardingState extends State<OnBoarding> {
     );
   }
 
-  void _updateSeen() async {
+  void _updateSeen(BuildContext cont) async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
     prefs.setBool('seen', true);
+    prefs.setDouble('screenwidth', MediaQuery.of(cont).size.width);
+    prefs.setDouble('screenheight', MediaQuery.of(cont).size.height);
+    bool isEng = Localizations.localeOf(cont).languageCode.contains("en");
+    prefs.setBool('locale', isEng);
   }
 
   @override
   Widget build(BuildContext context) {
     _addPages();
-    List<dynamic> myRespFunc = widget.responsveFunc(context);
+    List<dynamic> myRespFunc = widget.responsveFunc(context: context);
     //print(pages.length);
     double ww = MediaQuery.of(context).size.width;
     double myWidth = MediaQuery.of(context).orientation == Orientation.portrait
@@ -260,7 +264,7 @@ class _OnBoardingState extends State<OnBoarding> {
                 onPressed: () {
                   Navigator.pushReplacement(context, MaterialPageRoute(
                     builder: (context) {
-                      _updateSeen();
+                      _updateSeen(context);
                       return AuthPage(widget.responsveFunc);
                     },
                   ));
